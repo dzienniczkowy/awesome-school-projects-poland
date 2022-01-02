@@ -31,7 +31,8 @@
 ---
 
 ## 🔌 Wtyczki
-- [Naveq-DevTeam/CheatPack](https://github.com/Naveq-DevTeam/CheatPack) - ułatwienia dla Testportalu, Quizizz, Brainly i Librus Synergia
+- [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat)
+
 ### ⚪ Librus
 - [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd
 
