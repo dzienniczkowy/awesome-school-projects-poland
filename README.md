@@ -69,6 +69,8 @@
 - [wulkanowy/sdk-node](https://github.com/wulkanowy/sdk-node) - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) (WIP)
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a)
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) ![Python](https://img.shields.io/badge/-Python-%233572A5)
+- [drobotk/vulcan-sdk-py](https://github.com/drobotk/vulcan-sdk-py) - ![Python](https://img.shields.io/badge/-Python-%233572A5) (WIP
+
 #### 📅 Plan lekcji
 - [wulkanowy/timetable-parser-php](https://github.com/wulkanowy/timetable-parser-php) - ![PHP](https://img.shields.io/badge/-PHP-%234F5D95)
 - [wulkanowy/timetable-parser-js](https://github.com/wulkanowy/timetable-parser-js) - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a)
