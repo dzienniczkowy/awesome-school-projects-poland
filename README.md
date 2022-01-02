@@ -1,0 +1,1 @@
+# awesome-school-projects-poland
