@@ -5,7 +5,8 @@
 </div>
 
 ## 📜 Spis treści
-- [📱 Aplikacje](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje)
+- [📱 Aplikacje mobilne](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje-mobilne)
+- [💻 Strony internetowe](https://github.com/wulkanowy/awesome-school-projects-poland#strony-internetowe)
 - [🔌 Wtyczki](https://github.com/wulkanowy/awesome-school-projects-poland#wtyczki)
 - [🔗 Integracje](https://github.com/wulkanowy/awesome-school-projects-poland#integracje)
 - [✏ Projekty](https://github.com/wulkanowy/awesome-school-projects-poland#projekty)
@@ -13,7 +14,7 @@
 
 ---
 
-## 📱 Aplikacje
+## 📱 Aplikacje mobilne
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce
 ### ⚪ Librus
 - [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA
@@ -21,6 +22,12 @@
 ### 🌋 Vulcan
 - [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
 - [v0idzz/Vulcanova](https://github.com/v0idzz/Vulcanova) - międzyplatformowy (nieukończony)
+
+---
+
+## 💻 Strony internetowe
+### 🌋 Vulcan
+- [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM, sugerująca co należy wpakować i wypakować w danym dniu
 
 ---
 
