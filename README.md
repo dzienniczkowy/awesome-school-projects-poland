@@ -68,6 +68,7 @@
 - [wulkanowy/timetable-parser-js](https://github.com/wulkanowy/timetable-parser-js) - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a)
 - [ElektronPlus/timetable-scripts](https://github.com/ElektronPlus/timetable-scripts) - ![Python](https://img.shields.io/badge/-Python-%233572A5)
 - [szkolny-eu/timetables-parser-optivum](https://github.com/szkolny-eu/timetables-parser-optivum) - ![Python](https://img.shields.io/badge/-Python-%233572A5)
+- [MRmlik12/Optivulcan](https://github.com/MRmlik12/Optivulcan) - ![C#](https://img.shields.io/badge/-C%23-%23178600)
 ### ⚪ Librus
 #### 🤖 API
 - [Mati365/librus-api](https://github.com/Mati365/librus-api) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a)
