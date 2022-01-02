@@ -5,11 +5,22 @@
 </div>
 
 ## 📜 Spis treści
+- [📱 Aplikacje](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje)
 - [🔌 Wtyczki](https://github.com/wulkanowy/awesome-school-projects-poland#wtyczki)
 - [🔗 Integracje](https://github.com/wulkanowy/awesome-school-projects-poland#integracje)
 - [✏ Projekty](https://github.com/wulkanowy/awesome-school-projects-poland#projekty)
-- [📱 Aplikacje](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje-1)
 - [📦 Biblioteki](https://github.com/wulkanowy/awesome-school-projects-poland#biblioteki)
+
+---
+
+## 📱 Aplikacje
+- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce
+### ⚪ Librus
+- [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA
+
+### 🌋 Vulcan
+- [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
+- [v0idzz/Vulcanova](https://github.com/v0idzz/Vulcanova) - międzyplatformowy (nieukończony)
 
 ---
 
@@ -37,17 +48,6 @@
 
 ### 💬 Discord
 - [ElektronPlus/zseis-news](https://github.com/ElektronPlus/zseis-news) - wysyła wiadomości z strony szkolnej na Discorda
-
----
-
-## 📱 Aplikacje
-- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce
-### ⚪ Librus
-- [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA
-
-### 🌋 Vulcan
-- [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
-- [v0idzz/Vulcanova](https://github.com/v0idzz/Vulcanova) - międzyplatformowy (nieukończony)
 
 ---
 
