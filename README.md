@@ -26,7 +26,8 @@
 ---
 
 ## 💻 Strony internetowe
-- [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM sugeująca co należy wpakować i wypakować w danym dniu
+### 🌋 Vulcan
+- [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM, sugerująca co należy wpakować i wypakować w danym dniu
 
 ---
 
