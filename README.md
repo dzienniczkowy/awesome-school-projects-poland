@@ -41,6 +41,8 @@
 ## 🔗 Integracje
 ### 🌋 Vulcan
 #### 💬 Discord
+
+- [Luncenok/vulcan-o-bot](https://github.com/Luncenok/vulcan-o-bot) - ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f1e05a) pokazuje dane z dziennika
 - [suchencjusz/Bombunia](https://github.com/suchencjusz/Bombunia) - sprawdza jak klasie poszedł sprawdzian
 #### <a href="https://www.home-assistant.io/"><img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-small.svg" height="15"></a> Home Assistant
 - [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Vulcana jako sensory Home Assistant i wykorzystuj je w automatyzacji
@@ -63,7 +65,6 @@
 - [wulkanowy/qr](https://github.com/wulkanowy/qr) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![dart](images/dart.svg)](https://dart.dev/) [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [![php](images/php.svg)](https://www.php.net/) konwerter kodów QR
 - [wulkanowy/uonet-request-signer](https://github.com/wulkanowy/uonet-request-signer) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
-
 - [wulkanowy/bridge](https://github.com/wulkanowy/bridge) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) serwis umożliwiający dostęp do danych z dziennika  poprzez udokumentowane API
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
@@ -85,3 +86,4 @@
 ### ⚪ Librus
 #### 🤖 API
 - [Mati365/librus-api](https://github.com/Mati365/librus-api) [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+
