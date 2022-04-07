@@ -27,6 +27,7 @@
 
 ## 💻 Strony internetowe
 - [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM, sugerująca co należy wpakować i wypakować w danym dniu
+- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planów lekcji Optivum, zaprojektowana przede wszystkim z myślą o smartfonach
 
 ---
 
