@@ -70,6 +70,7 @@
 - [wulkanowy/bridge](https://github.com/wulkanowy/bridge) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) serwis umożliwiający dostęp do danych z dziennika  poprzez udokumentowane API
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
+ - [marioneq4958/FSLogin](https://github.com/marioneq4958/FSLogin) - [![python](images/python.svg)](https://python.org/) CUFS & ADFS UONET+ login module
 
 #### 🤖 API
 - [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
