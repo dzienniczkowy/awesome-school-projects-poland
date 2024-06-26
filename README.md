@@ -61,6 +61,7 @@
 ### 🛜 Interfejsy API
 - [zsk-poznan/szczesliwy-numerek-backend](https://github.com/zsk-poznan/szczesliwy-numerek-backend) - szczęśliwy numerek ZSK w Poznaniu
 - [cloud11665/vlott](https://github.com/cloud11665/vlott) - plan lekcji dla V LO w Krakowie
+- [dominik-korsa/timetable-api](https://github.com/dominik-korsa/timetable-api) - pobiera listę szkół z API RSPO, szuka na stronach szkół planów lekcji, parsuje i je udostępnia (w fazie rozwoju, obecnie posiada ponad 2000 planów lekcji Optivum - stan na 26.06.2024)
 
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
