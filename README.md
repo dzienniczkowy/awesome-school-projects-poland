@@ -14,7 +14,7 @@
 
 ---
 
-## 📱 Aplikacje mobilne
+## 📱 Aplikacje
 
 ### 📱 Międzyplatformowe
 - [ElektronPlus/Elektron-App](https://github.com/ElektronPlus/Elektron-App) - aplikacja szkolna CKZiU nr 2 "Elektronik" w Zielonej Górze
