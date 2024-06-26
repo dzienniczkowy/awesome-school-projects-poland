@@ -23,6 +23,7 @@
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [wulkanowy](https://github.com/wulkanowy/wulkanowy) - [zarchiwizowana] nieoficjalna aplikacja do Dziennika VULCAN
+- [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
 
 ### 🍎 iOS
 - [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - nieoficjalna aplikacja do Dziennika VULCAN
