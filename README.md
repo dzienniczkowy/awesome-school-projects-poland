@@ -21,7 +21,7 @@
 
 ### 🌋 Vulcan
 - [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
-- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - międzyplatformowy (nieukończony)
+- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - międzyplatformowy
 
 ---
 
