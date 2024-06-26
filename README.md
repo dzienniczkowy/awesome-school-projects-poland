@@ -26,7 +26,7 @@
 ---
 
 ## 💻 Strony internetowe
-- [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM, sugerująca co należy wpakować i wypakować w danym dniu
+- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - Strona dla planów lekcji OPTIVUM i planu V LO w Krakowie
 - [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planów lekcji Optivum, zaprojektowana przede wszystkim z myślą o smartfonach
 - [VulderApp/Frontend](https://github.com/VulderApp/Frontend) - Strona, która zbiera plany lekcji szkół dodatkowo je wyświetlając
 - [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - Przeglądarka planu lekcji Optivum firmy Vulcan stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
