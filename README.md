@@ -59,6 +59,9 @@
 - [zsk-poznan/zastepstwa](https://github.com/zsk-poznan/zastepstwa)
 - [zsk-poznan/szczesliwy-numerek-backend](https://github.com/zsk-poznan/szczesliwy-numerek-backend)
 
+### 💻 CLI
+- [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
+
 ---
 
 ## 📦 Biblioteki
