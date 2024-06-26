@@ -45,7 +45,6 @@
 ### 🌋 Vulcan
 #### 💬 Discord
 
-- [Luncenok/vulcan-o-bot](https://github.com/Luncenok/vulcan-o-bot) - pokazuje dane z dziennika
 - [suchencjusz/Bombunia](https://github.com/suchencjusz/Bombunia) - sprawdza jak klasie poszedł sprawdzian
 #### <a href="https://www.home-assistant.io/"><img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-small.svg" height="15"></a> Home Assistant
 - [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Vulcana jako sensory Home Assistant i wykorzystuj je w automatyzacji
