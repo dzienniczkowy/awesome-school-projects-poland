@@ -86,11 +86,11 @@
  ADFS & Vulcan CUFS Login module 
 
 #### 🤖 Klienty API
-- [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/) [zarchiwizowany]
+- [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/) [zarchiwizowany] [hebe API i scrapper]
  ujednolicony sposób pobierania danych poprzez mobilne API oraz scraping
-- [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
-- [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/)
-- [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/)
+- [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]
+- [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]
+- [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [hebe API]
 
 #### 📅 Plan lekcji
 - [wulkanowy/timetable-parser-php](https://github.com/wulkanowy/timetable-parser-php) - [![php](images/php.svg)](https://www.php.net/)
