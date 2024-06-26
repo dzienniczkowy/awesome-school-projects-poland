@@ -15,64 +15,62 @@
 ---
 
 ## 📱 Aplikacje mobilne
-- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce
-### ⚪ Librus
-- [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA
 
-### 🌋 Vulcan
-- [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
-- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - międzyplatformowy
+### 📱 Międzyplatformowe
+- [ElektronPlus/Elektron-App](https://github.com/ElektronPlus/Elektron-App) - aplikacja szkolna CKZiU nr 2 "Elektronik" w Zielonej Górze
+- [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA dla Librusa
+
+### 🤖 Android
+- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
+- [wulkanowy](https://github.com/wulkanowy/wulkanowy) - [zarchiwizowana] nieoficjalna aplikacja do Dziennika VULCAN
+
+### 🍎 iOS
+- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - nieoficjalna aplikacja do Dziennika VULCAN
 
 ---
 
 ## 💻 Strony internetowe
 
-- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - Strona dla planów lekcji OPTIVUM i planu V LO w Krakowie
-- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planu lekcji Optivum ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
-- [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - Przeglądarka planu lekcji Optivum firmy Vulcan stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
-- [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable/) - Internetowa przeglądarka planu lekcji Optivum ZSTiO w Jarosławiu
+### 📅 Plan lekcji
+- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - przeglądarka planów lekcji OPTIVUM i planu V LO w Krakowie
+- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - przeglądarka planu lekcji Optivum ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
+- [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - przeglądarka planu lekcji Optivum firmy VULCAN stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
+- [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable) - przeglądarka planu lekcji Optivum ZSTiO w Jarosławiu
 
 ---
 
 ## 🔌 Wtyczki
 - [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat)
-
-### ⚪ Librus
-- [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd
+- [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd dla Librusa
 
 ---
 
 ## 🔗 Integracje
-### 🌋 Vulcan
-#### 💬 Discord
 
-- [suchencjusz/Bombunia](https://github.com/suchencjusz/Bombunia) - sprawdza jak klasie poszedł sprawdzian
+#### 💬 Discord
+- [ElektronPlus/zseis-news](https://github.com/ElektronPlus/zseis-news) - wysyła wiadomości z strony szkolnej na Discorda
+
 #### <a href="https://www.home-assistant.io/"><img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-small.svg" height="15"></a> Home Assistant
-- [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Vulcana jako sensory Home Assistant i wykorzystuj je w automatyzacji
+- [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Dziennika VULCAN jako sensory Home Assistant i wykorzystuj je w automatyzacji
 
 ---
 
 ## ✏ Projekty
 - [zsk-poznan/zastepstwa](https://github.com/zsk-poznan/zastepstwa)
 - [zsk-poznan/szczesliwy-numerek-backend](https://github.com/zsk-poznan/szczesliwy-numerek-backend)
-### 📱 Aplikacje
-- [ElektronPlus/Elektron-App](https://github.com/ElektronPlus/Elektron-App) - aplikacja szkolna
-
-### 💬 Discord
-- [ElektronPlus/zseis-news](https://github.com/ElektronPlus/zseis-news) - wysyła wiadomości z strony szkolnej na Discorda
 
 ---
 
 ## 📦 Biblioteki
-### 🌋 Vulcan
+### 🌋 VULCAN
 - [wulkanowy/qr](https://github.com/wulkanowy/qr) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![dart](images/dart.svg)](https://dart.dev/) [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [![php](images/php.svg)](https://www.php.net/) konwerter kodów QR
 - [wulkanowy/uonet-request-signer](https://github.com/wulkanowy/uonet-request-signer) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
 
-#### 🤖 API
-- [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
+#### 🤖 Klienty API
+- [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/) [zarchiwizowany]
  ujednolicony sposób pobierania danych poprzez mobilne API oraz scraping
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/)
@@ -84,7 +82,8 @@
 - [ElektronPlus/timetable-scripts](https://github.com/ElektronPlus/timetable-scripts) - [![python](images/python.svg)](https://python.org/)
 - [szkolny-eu/timetables-parser-optivum](https://github.com/szkolny-eu/timetables-parser-optivum) - [![python](images/python.svg)](https://python.org/)
 - [MRmlik12/Optivulcan](https://github.com/MRmlik12/Optivulcan) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/)
+
 ### ⚪ Librus
-#### 🤖 API
+#### 🤖 Klienty API
 - [Mati365/librus-api](https://github.com/Mati365/librus-api) [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
