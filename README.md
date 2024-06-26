@@ -21,14 +21,16 @@
 
 ### 🌋 Vulcan
 - [wulkanowy](https://github.com/wulkanowy/wulkanowy) - Android
-- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - międzyplatformowy (nieukończony)
+- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - międzyplatformowy
 
 ---
 
 ## 💻 Strony internetowe
-- [dominik-korsa/timetable-backpack-assistant](https://github.com/dominik-korsa/timetable-backpack-assistant) - Strona dla planów lekcji OPTIVUM, sugerująca co należy wpakować i wypakować w danym dniu
-- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planów lekcji Optivum, zaprojektowana przede wszystkim z myślą o smartfonach
+
+- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - Strona dla planów lekcji OPTIVUM i planu V LO w Krakowie
+- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planu lekcji Optivum ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
 - [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - Przeglądarka planu lekcji Optivum firmy Vulcan stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
+- [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable/) - Internetowa przeglądarka planu lekcji Optivum ZSTiO w Jarosławiu
 
 ---
 
@@ -44,7 +46,6 @@
 ### 🌋 Vulcan
 #### 💬 Discord
 
-- [Luncenok/vulcan-o-bot](https://github.com/Luncenok/vulcan-o-bot) - pokazuje dane z dziennika
 - [suchencjusz/Bombunia](https://github.com/suchencjusz/Bombunia) - sprawdza jak klasie poszedł sprawdzian
 #### <a href="https://www.home-assistant.io/"><img src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-small.svg" height="15"></a> Home Assistant
 - [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Vulcana jako sensory Home Assistant i wykorzystuj je w automatyzacji
@@ -67,18 +68,14 @@
 - [wulkanowy/qr](https://github.com/wulkanowy/qr) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![dart](images/dart.svg)](https://dart.dev/) [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [![php](images/php.svg)](https://www.php.net/) konwerter kodów QR
 - [wulkanowy/uonet-request-signer](https://github.com/wulkanowy/uonet-request-signer) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
-- [wulkanowy/bridge](https://github.com/wulkanowy/bridge) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) serwis umożliwiający dostęp do danych z dziennika  poprzez udokumentowane API
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
- - [marioneq4958/FSLogin](https://github.com/marioneq4958/FSLogin) - [![python](images/python.svg)](https://python.org/) CUFS & ADFS UONET+ login module
 
 #### 🤖 API
 - [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ujednolicony sposób pobierania danych poprzez mobilne API oraz scraping
-- [wulkanowy/sdk-node](https://github.com/wulkanowy/sdk-node) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) (WIP)
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/)
-- [drobotk/vulcan-sdk-py](https://github.com/drobotk/vulcan-sdk-py) - [![python](images/python.svg)](https://python.org/) (WIP)
 - [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/)
 
 #### 📅 Plan lekcji
