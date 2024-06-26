@@ -49,6 +49,7 @@
 - [gbaranski/quizizz-cheat](https://github.com/gbaranski/quizizz-cheat)
 - [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd dla Librusa
 - [szymon3ek/srednia-uonet](https://github.com/szymon3ek/srednia-uonet) - liczenie średniej w Dzienniku VULCAN, gdy szkoła wyłączyła obliczanie średniej
+- [szymonpawlus/mobi-dark-theme](https://github.com/szymonpawlus/mobi-dark-theme) - motyw ciemny dla mobiDziennika
 
 ---
 
