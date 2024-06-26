@@ -19,6 +19,7 @@
 ### 📱 Międzyplatformowe
 - [ElektronPlus/Elektron-App](https://github.com/ElektronPlus/Elektron-App) - aplikacja szkolna CKZiU nr 2 "Elektronik" w Zielonej Górze
 - [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA dla Librusa
+- [Ocenowo (closed source)](https://ocenowo.com/) - Auto Instaling, Auto Lingos, Anti-Testportal, Odpowiedzi do EduElo oraz obsługa Dziennika VULCAN
 
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
