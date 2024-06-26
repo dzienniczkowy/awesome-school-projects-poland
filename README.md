@@ -107,4 +107,5 @@
 
 #### 📅 Plan lekcji
 - [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
+- [asc-timetable-parser-js](https://github.com/wulkanowy/asc-timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
