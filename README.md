@@ -71,7 +71,6 @@
 - [wulkanowy/uonet-request-signer](https://github.com/wulkanowy/uonet-request-signer) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
- - [marioneq4958/FSLogin](https://github.com/marioneq4958/FSLogin) - [![python](images/python.svg)](https://python.org/) CUFS & ADFS UONET+ login module
 
 #### 🤖 API
 - [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
