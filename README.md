@@ -29,6 +29,9 @@
 ### 🍎 iOS
 - [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - nieoficjalna aplikacja do Dziennika VULCAN
 
+### 🪟 Windows
+- [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN
+
 ---
 
 ## 💻 Strony internetowe
