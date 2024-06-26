@@ -31,11 +31,12 @@
 
 ## 💻 Strony internetowe
 
-### 📅 Plan lekcji
-- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - przeglądarka planów lekcji OPTIVUM i planu V LO w Krakowie
-- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - przeglądarka planu lekcji Optivum ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
+### 📅 Plan lekcji i zastępstwa
+- [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - przeglądarka planów lekcji OPTIVUM oraz planu i zastępstw w V LO w Krakowie
+- [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - przeglądarka planu lekcji Optivum i zastępstw ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
 - [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - przeglądarka planu lekcji Optivum firmy VULCAN stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
-- [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable) - przeglądarka planu lekcji Optivum ZSTiO w Jarosławiu
+- [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable) - przeglądarka planu lekcji Optivum i zastępstw w ZSTiO w Jarosławiu
+- [zsk-poznan/zastepstwa](https://github.com/zsk-poznan/zastepstwa) - przeglądarka zastępstw w ZSK w Poznaniu
 
 ---
 
@@ -56,8 +57,10 @@
 ---
 
 ## ✏ Projekty
-- [zsk-poznan/zastepstwa](https://github.com/zsk-poznan/zastepstwa)
-- [zsk-poznan/szczesliwy-numerek-backend](https://github.com/zsk-poznan/szczesliwy-numerek-backend)
+
+### 🛜 Interfejsy API
+- [zsk-poznan/szczesliwy-numerek-backend](https://github.com/zsk-poznan/szczesliwy-numerek-backend) - szczęśliwy numerek ZSK w Poznaniu
+- [cloud11665/vlott](https://github.com/cloud11665/vlott) - plan lekcji dla V LO w Krakowie
 
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
