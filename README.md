@@ -71,6 +71,7 @@
 
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
+- [Vulcanova/Vulcanova.Exporter](https://github.com/Vulcanova/Vulcanova.Exporter) - wyeksportuj swoje dane z Dziennika VULCAN do pliku JSON
 
 ---
 
