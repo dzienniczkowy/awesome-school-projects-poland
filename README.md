@@ -100,3 +100,7 @@
 #### 🤖 Klienty API
 - [Mati365/librus-api](https://github.com/Mati365/librus-api) [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
+### 🏫 Edupage
+#### 📅 Plan lekcji
+- [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
+
