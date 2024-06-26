@@ -29,7 +29,6 @@
 
 - [dominik-korsa/timetable](https://github.com/dominik-korsa/timetable) - Strona dla planów lekcji OPTIVUM i planu V LO w Krakowie
 - [rico-et22/elektronik-timetable](https://github.com/rico-et22/elektronik-timetable) - Internetowa przeglądarka planu lekcji Optivum ZSE w Rzeszowie, zaprojektowana przede wszystkim z myślą o smartfonach
-- [VulderApp/Frontend](https://github.com/VulderApp/Frontend) - Strona, która zbiera plany lekcji szkół dodatkowo je wyświetlając
 - [Bartek20/ZSM-TimeTable](https://github.com/Bartek20/ZSM-TimeTable) - Przeglądarka planu lekcji Optivum firmy Vulcan stworzona dla Zespołu Szkół Mechanicznych w Rzeszowie
 - [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable/) - Internetowa przeglądarka planu lekcji Optivum ZSTiO w Jarosławiu
 
