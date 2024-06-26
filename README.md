@@ -25,6 +25,7 @@
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [wulkanowy](https://github.com/wulkanowy/wulkanowy) - [zarchiwizowana] nieoficjalna aplikacja do Dziennika VULCAN
 - [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
+- [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
 ### 🍎 iOS
 - [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - nieoficjalna aplikacja do Dziennika VULCAN
@@ -71,7 +72,6 @@
 - [cloud11665/vlott](https://github.com/cloud11665/vlott) - plan lekcji dla V LO w Krakowie
 - [dominik-korsa/timetable-api](https://github.com/dominik-korsa/timetable-api) - pobiera listę szkół z API RSPO, szuka na stronach szkół planów lekcji, parsuje i je udostępnia (w fazie rozwoju, obecnie posiada ponad 2000 planów lekcji Optivum - stan na 26.06.2024)
 - [RSPO API (closed source)](https://api-rspo.mein.gov.pl/) - aktualne dane z Rejestru Szkół i Placówek Oświatowych
-- [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
