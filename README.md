@@ -5,7 +5,7 @@
 </div>
 
 ## 📜 Spis treści
-- [📱 Aplikacje mobilne](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje-mobilne)
+- [📱 Aplikacje](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje-mobilne)
 - [💻 Strony internetowe](https://github.com/wulkanowy/awesome-school-projects-poland#strony-internetowe)
 - [🔌 Wtyczki](https://github.com/wulkanowy/awesome-school-projects-poland#wtyczki)
 - [🔗 Integracje](https://github.com/wulkanowy/awesome-school-projects-poland#integracje)
