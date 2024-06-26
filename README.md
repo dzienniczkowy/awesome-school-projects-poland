@@ -98,9 +98,12 @@
 
 ### ⚪ Librus
 #### 🤖 Klienty API
-- [Mati365/librus-api](https://github.com/Mati365/librus-api) [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+- [Mati365/librus-api](https://github.com/Mati365/librus-api) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 ### 🏫 Edupage
+#### 🤖 Klienty API
+- [EdupageAPI/edupage-api](https://github.com/EdupageAPI/edupage-api) - [![python](images/python.svg)](https://python.org/)
+
 #### 📅 Plan lekcji
 - [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
 
