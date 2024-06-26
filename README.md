@@ -103,6 +103,7 @@
 ### 🏫 Edupage
 #### 🤖 Klienty API
 - [EdupageAPI/edupage-api](https://github.com/EdupageAPI/edupage-api) - [![python](images/python.svg)](https://python.org/)
+- [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 #### 📅 Plan lekcji
 - [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
