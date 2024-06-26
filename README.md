@@ -79,7 +79,6 @@
 - [wulkanowy/sdk-node](https://github.com/wulkanowy/sdk-node) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) (WIP)
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/)
-- [drobotk/vulcan-sdk-py](https://github.com/drobotk/vulcan-sdk-py) - [![python](images/python.svg)](https://python.org/) (WIP)
 - [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/)
 
 #### 📅 Plan lekcji
