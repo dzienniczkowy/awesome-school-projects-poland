@@ -23,7 +23,6 @@
 
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
-- [wulkanowy](https://github.com/wulkanowy/wulkanowy) - [zarchiwizowana] nieoficjalna aplikacja do Dziennika VULCAN
 - [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
@@ -82,15 +81,10 @@
 
 ## 📦 Biblioteki
 ### 🌋 VULCAN
-- [wulkanowy/qr](https://github.com/wulkanowy/qr) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
- [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [![dart](images/dart.svg)](https://dart.dev/) [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [![php](images/php.svg)](https://www.php.net/) konwerter kodów QR
-- [wulkanowy/uonet-request-signer](https://github.com/wulkanowy/uonet-request-signer) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
 - [szkolny-eu/FSLogin](https://github.com/szkolny-eu/FSLogin) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/)
  ADFS & Vulcan CUFS Login module 
 
 #### 🤖 Klienty API
-- [wulkanowy/sdk](https://github.com/wulkanowy/sdk) - [![kotlin](images/kotlin.svg)](https://kotlinlang.org/) [zarchiwizowany] [hebe API i scrapper]
- ujednolicony sposób pobierania danych poprzez mobilne API oraz scraping
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]
 - [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [hebe API]
