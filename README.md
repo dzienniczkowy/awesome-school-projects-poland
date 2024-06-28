@@ -5,12 +5,12 @@
 </div>
 
 ## 📜 Spis treści
-- [📱 Aplikacje](#aplikacje)
-- [💻 Strony internetowe](#strony-internetowe)
-- [🔌 Wtyczki](#wtyczki)
-- [🔗 Integracje](#integracje)
-- [✏ Projekty](#projekty)
-- [📦 Biblioteki](#biblioteki)
+- [📱 Aplikacje](#-aplikacje)
+- [💻 Strony internetowe](#-strony-internetowe)
+- [🔌 Wtyczki](#-wtyczki)
+- [🔗 Integracje](#-integracje)
+- [✏ Projekty](#-projekty)
+- [📦 Biblioteki](#-biblioteki)
 
 ---
 
