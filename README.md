@@ -5,12 +5,12 @@
 </div>
 
 ## 📜 Spis treści
-- [📱 Aplikacje](https://github.com/wulkanowy/awesome-school-projects-poland#aplikacje-mobilne)
-- [💻 Strony internetowe](https://github.com/wulkanowy/awesome-school-projects-poland#strony-internetowe)
-- [🔌 Wtyczki](https://github.com/wulkanowy/awesome-school-projects-poland#wtyczki)
-- [🔗 Integracje](https://github.com/wulkanowy/awesome-school-projects-poland#integracje)
-- [✏ Projekty](https://github.com/wulkanowy/awesome-school-projects-poland#projekty)
-- [📦 Biblioteki](https://github.com/wulkanowy/awesome-school-projects-poland#biblioteki)
+- [📱 Aplikacje](#aplikacje-mobilne)
+- [💻 Strony internetowe](#strony-internetowe)
+- [🔌 Wtyczki](#wtyczki)
+- [🔗 Integracje](#integracje)
+- [✏ Projekty](#projekty)
+- [📦 Biblioteki](#biblioteki)
 
 ---
 
@@ -75,7 +75,7 @@
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
 - [Vulcanova/Vulcanova.Exporter](https://github.com/Vulcanova/Vulcanova.Exporter) - wyeksportuj swoje dane z Dziennika VULCAN do pliku JSON
-- [wulkanowy/timetables-list-generator](https://github.com/wulkanowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
+- [dzienniczkowy/timetables-list-generator](https://github.com/dzienniczkowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
 
 ---
 
@@ -90,8 +90,8 @@
 - [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [hebe API]
 
 #### 📅 Plan lekcji
-- [wulkanowy/timetable-parser-php](https://github.com/wulkanowy/timetable-parser-php) - [![php](images/php.svg)](https://www.php.net/)
-- [wulkanowy/timetable-parser-js](https://github.com/wulkanowy/timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+- [dzienniczkowy/timetable-parser-php](https://github.com/dzienniczkowy/timetable-parser-php) - [![php](images/php.svg)](https://www.php.net/)
+- [dzienniczkowy/timetable-parser-js](https://github.com/dzienniczkowy/timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 - [ElektronPlus/timetable-scripts](https://github.com/ElektronPlus/timetable-scripts) - [![python](images/python.svg)](https://python.org/)
 - [szkolny-eu/timetables-parser-optivum](https://github.com/szkolny-eu/timetables-parser-optivum) - [![python](images/python.svg)](https://python.org/)
 - [MRmlik12/Optivulcan](https://github.com/MRmlik12/Optivulcan) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/)
@@ -107,5 +107,5 @@
 
 #### 📅 Plan lekcji
 - [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
-- [asc-timetable-parser-js](https://github.com/wulkanowy/asc-timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+- [dzienniczkowy/asc-timetable-parser-js](https://github.com/dzienniczkowy/asc-timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
