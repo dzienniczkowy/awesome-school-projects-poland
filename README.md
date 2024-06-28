@@ -44,6 +44,7 @@
 - [rvyk/zstio-timetable](https://github.com/rvyk/zstio-timetable) - przeglądarka planu lekcji Optivum i zastępstw w ZSTiO w Jarosławiu
 - [zsk-poznan/zastepstwa](https://github.com/zsk-poznan/zastepstwa) - przeglądarka zastępstw w ZSK w Poznaniu
 - [kubagp1/lesson-plan](https://github.com/kubagp1/lesson-plan) - przeglądarka planu Optivum w ZST w Radomiu dla urządzeń mobilnych 
+- [JestemKamil/plan-lekcji](https://github.com/JestemKamil/plan-lekcji) - przeglądarka planu Optivum w Centrum Edukacji Zawodowej w Stalowej Woli
 ---
 
 ## 🔌 Wtyczki
