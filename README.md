@@ -5,7 +5,7 @@
 </div>
 
 ## 📜 Spis treści
-- [📱 Aplikacje](#aplikacje-mobilne)
+- [📱 Aplikacje](#aplikacje)
 - [💻 Strony internetowe](#strony-internetowe)
 - [🔌 Wtyczki](#wtyczki)
 - [🔗 Integracje](#integracje)
