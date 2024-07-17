@@ -19,16 +19,13 @@
 ### 📱 Międzyplatformowe
 - [ElektronPlus/Elektron-App](https://github.com/ElektronPlus/Elektron-App) - aplikacja szkolna CKZiU nr 2 "Elektronik" w Zielonej Górze
 - [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA dla Librusa
-- [Ocenowo (closed source)](https://ocenowo.com/) - Auto Instaling, Auto Lingos, Anti-Testportal, Odpowiedzi do EduElo oraz obsługa Dziennika VULCAN
+- [Ocenowo (closed source)](https://ocenowo.com/) - Auto Instaling, Auto Lingos, Anti-Testportal, Odpowiedzi do EduElo
 - [AdamPodymniak/PlanLekcjiElektronik](https://github.com/AdamPodymniak/PlanLekcjiElektronik) - plan lekcji dla Zespołu Szkół Elektronicznych w Radomiu
 
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
-
-### 🍎 iOS
-- [VulcanovaApp/Vulcanova](https://github.com/VulcanovaApp/Vulcanova) - nieoficjalna aplikacja do Dziennika VULCAN
 
 ### 🪟 Windows
 - [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN
@@ -111,4 +108,8 @@
 #### 📅 Plan lekcji
 - [szkolny-eu/timetables-parser-edupage](https://github.com/szkolny-eu/timetables-parser-edupage) - [![python](images/python.svg)](https://python.org/)
 - [dzienniczkowy/asc-timetable-parser-js](https://github.com/dzienniczkowy/asc-timetable-parser-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+## ✝️ Cmentarz dzienniczkowy
+- [Vulcanova Fork](https://github.com/Vulcanova) - nieoficjalne forki repozytoriów Vulcanovej
+- [Wulkanowy Fork](https://github.com/wulkanowy) - nieoficjalne forki repozytoriów Wulkanowego
 
