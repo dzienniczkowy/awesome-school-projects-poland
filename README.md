@@ -27,6 +27,9 @@
 - [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
+### 🍎 iOS
+- [VulkaProject/Vulka-iOS](https://github.com/VulkaProject/Vulka-iOS) - nieoficjalna aplikacja do dziennika Librus Synergia (w fazie rozwoju)
+
 ### 🪟 Windows
 - [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN
 
@@ -98,6 +101,7 @@
 ### ⚪ Librus
 #### 🤖 Klienty API
 - [Mati365/librus-api](https://github.com/Mati365/librus-api) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+- [VulkaProject/Synergia-Swift](https://github.com/VulkaProject/Synergia-Swift) - [![swift](images/swift.svg)](https://swift.org)
 
 ### 🏫 Edupage
 #### 🤖 Klienty API
