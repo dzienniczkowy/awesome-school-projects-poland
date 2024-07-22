@@ -73,7 +73,6 @@
 
 ### 💻 CLI
 - [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
-- [Vulcanova/Vulcanova.Exporter](https://github.com/Vulcanova/Vulcanova.Exporter) - wyeksportuj swoje dane z Dziennika VULCAN do pliku JSON
 - [dzienniczkowy/timetables-list-generator](https://github.com/dzienniczkowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
 - [dzienniczkowy/symbols-generator](https://github.com/dzienniczkowy/symbols-generator) - generator symboli w Dzienniku VULCAN
 
