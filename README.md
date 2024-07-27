@@ -89,7 +89,6 @@
 #### 🤖 Klienty API
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]
-- [VulcanovaApp/Vulcanova.Uonet](https://github.com/VulcanovaApp/Vulcanova.Uonet) - [![c#](images/csharp.svg)](https://docs.microsoft.com/dotnet/csharp/) [hebe API]
 
 #### 📅 Plan lekcji
 - [dzienniczkowy/timetable-parser-php](https://github.com/dzienniczkowy/timetable-parser-php) - [![php](images/php.svg)](https://www.php.net/)
