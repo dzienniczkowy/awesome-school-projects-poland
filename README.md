@@ -25,6 +25,7 @@
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [VulkaProject/Vulka-Android](https://github.com/VulkaProject/Vulka-Android) - nieoficjalna aplikacja do Dziennika VULCAN i Librusa (w fazie rozwoju)
+- [Dzienniczek Wezuwiusz](https://github.com/wezuwiusz/neowulkanowy) - nieoficjalna aplikacja do Dziennika VULCAN, fork Wulkanowego (w fazie rozwoju)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
 ### 🍎 iOS
