@@ -71,7 +71,6 @@
 - [RSPO API (closed source)](https://api-rspo.mein.gov.pl/) - aktualne dane z Rejestru Szkół i Placówek Oświatowych
 
 ### 💻 CLI
-- [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
 - [dzienniczkowy/timetables-list-generator](https://github.com/dzienniczkowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
 - [dzienniczkowy/symbols-generator](https://github.com/dzienniczkowy/symbols-generator) - generator symboli w Dzienniku VULCAN
 
