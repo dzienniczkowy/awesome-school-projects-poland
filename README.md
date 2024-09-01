@@ -23,7 +23,7 @@
 - [AdamPodymniak/PlanLekcjiElektronik](https://github.com/AdamPodymniak/PlanLekcjiElektronik) - plan lekcji dla Zespołu Szkół Elektronicznych w Radomiu
 
 ### 🤖 Android
-- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
+- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, częściowo Dziennik VULCAN (obsługa szkół które używają aplikacji Dzienniczek VULCAN), mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
 ### 🪟 Windows
