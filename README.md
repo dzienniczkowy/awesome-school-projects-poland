@@ -23,12 +23,13 @@
 - [AdamPodymniak/PlanLekcjiElektronik](https://github.com/AdamPodymniak/PlanLekcjiElektronik) - plan lekcji dla Zespołu Szkół Elektronicznych w Radomiu
 
 ### 🤖 Android
-- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, częściowo Dziennik VULCAN (obsługa szkół które używają aplikacji Dzienniczek VULCAN), mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
+- [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN\*, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
 
 ### 🪟 Windows
-- [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN
+- [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN\*
 
+\* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULC
 ---
 
 ## 💻 Strony internetowe
@@ -49,7 +50,6 @@
 ## 🔌 Wtyczki
 - [banocean/ifv](https://github.com/banocean/ifv) - ulepszenia dla Dziennika VULCAN
 - [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd dla Librusa
-- [szymon3ek/srednia-uonet](https://github.com/szymon3ek/srednia-uonet) - liczenie średniej w Dzienniku VULCAN, gdy szkoła wyłączyła obliczanie średniej (nie działa z uczniem+)
 - [szymonpawlus/mobi-dark-theme](https://github.com/szymonpawlus/mobi-dark-theme) - motyw ciemny dla mobiDziennika
 
 ---
@@ -58,10 +58,12 @@
 
 #### 💬 Discord
 - [ElektronPlus/zseis-news](https://github.com/ElektronPlus/zseis-news) - wysyła wiadomości z strony szkolnej na Discorda
-- [Wafelowski/AsystentLekcyjnyPy](https://github.com/Wafelowski/AsystentLekcyjnyPy)
+- [Wafelowski/AsystentLekcyjnyPy](https://github.com/Wafelowski/AsystentLekcyjnyPy)\*
 
 #### <a href="https://www.home-assistant.io/"><img src="https://github.com/home-assistant/brands/blob/master/core_integrations/_homeassistant/icon.png?raw=true" height="15"></a> Home Assistant
-- [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Dziennika VULCAN jako sensory Home Assistant i wykorzystuj je w automatyzacji
+- [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Dziennika VULCAN jako sensory Home Assistant i wykorzystuj je w automatyzacji\*
+
+\* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULCAN
 
 ---
 
@@ -85,8 +87,10 @@
  ADFS & Vulcan CUFS Login module 
 
 #### 🤖 Klienty API
-- [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]
-- [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]
+- [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]\*
+- [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]\*
+
+\* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULCAN
 
 #### 📅 Plan lekcji
 - [dzienniczkowy/timetable-parser-php](https://github.com/dzienniczkowy/timetable-parser-php) - [![php](images/php.svg)](https://www.php.net/)
