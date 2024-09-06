@@ -29,7 +29,7 @@
 ### 🪟 Windows
 - [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN\*
 
-\* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULC
+\* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULCAN
 ---
 
 ## 💻 Strony internetowe
