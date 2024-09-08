@@ -21,7 +21,7 @@
 - [ccwe/frekwencja](https://github.com/ccwe/frekwencja) - nieoficjalny kalkulator frekwencji i GPA dla Librusa
 - [Ocenowo (closed source)](https://ocenowo.com/) - Auto Instaling, Auto Lingos, Anti-Testportal, Odpowiedzi do EduElo
 - [AdamPodymniak/PlanLekcjiElektronik](https://github.com/AdamPodymniak/PlanLekcjiElektronik) - plan lekcji dla Zespołu Szkół Elektronicznych w Radomiu
-- [aeoliux/Violet](https://github.com/aeoliux/Violet) - nieoficjalny klient dla Librusa (work in progress). 
+- [aeoliux/Violet](https://github.com/aeoliux/Violet) - nieoficjalny klient dla Librusa (work in progress)
 
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN\*, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
