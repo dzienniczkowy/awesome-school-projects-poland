@@ -61,6 +61,7 @@
 #### 💬 Discord
 - [ElektronPlus/zseis-news](https://github.com/ElektronPlus/zseis-news) - wysyła wiadomości z strony szkolnej na Discorda
 - [Wafelowski/AsystentLekcyjnyPy](https://github.com/Wafelowski/AsystentLekcyjnyPy)\*
+- [kacpergorka/Zastepstwa](https://github.com/kacpergorka/Zastepstwa)
 
 #### <a href="https://www.home-assistant.io/"><img src="https://github.com/home-assistant/brands/blob/master/core_integrations/_homeassistant/icon.png?raw=true" height="15"></a> Home Assistant
 - [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio) - przeglądaj swoje dane z Dziennika VULCAN jako sensory Home Assistant i wykorzystuj je w automatyzacji\*
