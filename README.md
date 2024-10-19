@@ -79,8 +79,10 @@
 - [RSPO API (closed source)](https://api-rspo.mein.gov.pl/) - aktualne dane z Rejestru Szkół i Placówek Oświatowych
 
 ### 💻 CLI
+- [hypedevss/vulcanjs](https://github.com/hypedevss/vulcanjs) - nieoficjalny konsolowy klient Dziennika VULCAN
 - [dzienniczkowy/timetables-list-generator](https://github.com/dzienniczkowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
 - [dzienniczkowy/symbols-generator](https://github.com/dzienniczkowy/symbols-generator) - generator symboli w Dzienniku VULCAN
+
 
 ---
 
@@ -92,6 +94,7 @@
 #### 🤖 Klienty API
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]\*
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]\*
+- [hypedevss/hebece](https://github.com/hypedevss/hebece) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) (w fazie rozwoju)
 
 \* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULCAN
 
