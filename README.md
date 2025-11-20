@@ -53,6 +53,7 @@
 - [banocean/ifv](https://github.com/banocean/ifv) - ulepszenia dla Dziennika VULCAN
 - [kasrow12/LibrusPro](https://github.com/kasrow12/LibrusPro) - ciemny motyw, średnia, frekwencja, własne wydarzenia, ładniejszy wygląd dla Librusa
 - [szymonpawlus/mobi-dark-theme](https://github.com/szymonpawlus/mobi-dark-theme) - motyw ciemny dla mobiDziennika
+- [yoper12/WASM-for-Vulcan](https://github.com/yoper12/WASM-for-Vulcan) - ok. 20-krotnie szybsze rozwiązywanie captchy PoW Vulcana
 
 ---
 
