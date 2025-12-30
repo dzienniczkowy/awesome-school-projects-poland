@@ -96,6 +96,7 @@
 - [Capure/vulcan-api-js](https://github.com/Capure/vulcan-api-js) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) [hebe API]\*
 - [kapi2289/vulcan-api](https://github.com/kapi2289/vulcan-api) - [![python](images/python.svg)](https://python.org/) [hebe API]\*
 - [hypedevss/hebece](https://github.com/hypedevss/hebece) - [![js](images/js.svg)](https://developer.mozilla.org/docs/Web/JavaScript) (w fazie rozwoju)
+- [bbrjpl1310b/iris](https://github.com/bbrjpl1310b/iris) - [![python](images/python.svg)](https://python.org/) obsługuje konta eduVULCAN, a także konta użytkowników aplikacji Dzienniczek VULCAN
 
 \* Obecnie działa tylko w szkołach gdzie aplikacją mobilną do dziennika jest Dzienniczek VULCAN
 
