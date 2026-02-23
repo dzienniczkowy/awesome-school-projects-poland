@@ -26,6 +26,7 @@
 ### 🤖 Android
 - [szkolny.eu](https://github.com/szkolny-eu/szkolny-android) - nieoficjalna aplikacja do obsługi najpopularniejszych dzienników elektronicznych w Polsce (Librus Synergia, Dziennik VULCAN\*, mobiDziennik, Podlaska Platforma Edukacyjna, USOS)
 - [KyrietS/szczesliwy-numerek](https://github.com/KyrietS/szczesliwy-numerek) - szczęśliwy numerek II LO w Legnicy
+- [yoper12/niedu](https://github.com/yoper12/niedu) - fork porzuconego już `AndusDEV/niedu`. umożliwia używanie [ifv](https://github.com/banocean/ifv) poza przeglądarką i dodaje parę innych udogodnień
 
 ### 🪟 Windows
 - [marciweleq/VulcanForWindows](https://github.com/marciweleq/VulcanForWindows) - nieoficjalny klient Dziennika VULCAN\*
