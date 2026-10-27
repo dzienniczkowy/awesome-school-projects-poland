@@ -60,7 +60,6 @@
 
 ### 🛜 Interfejsy API
 - [dominik-korsa/timetable-api](https://github.com/dominik-korsa/timetable-api) - pobiera listę szkół z API RSPO, szuka na stronach szkół planów lekcji, parsuje i je udostępnia (w fazie rozwoju, obecnie posiada ponad 2000 planów lekcji Optivum - stan na 26.06.2024)
-- [RSPO API (closed source)](https://api-rspo.mein.gov.pl/) - aktualne dane z Rejestru Szkół i Placówek Oświatowych
 
 ### 💻 CLI
 - [dzienniczkowy/timetables-list-generator](https://github.com/dzienniczkowy/timetables-list-generator) - generator adresów planów lekcji Optivum w polskich szkołach
